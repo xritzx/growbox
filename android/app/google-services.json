@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428941122186",
+    "firebase_url": "https://urbanfarmer-22ea8.firebaseio.com",
+    "project_id": "urbanfarmer-22ea8",
+    "storage_bucket": "urbanfarmer-22ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428941122186:android:2fa625c45c2137a1e42b73",
+        "android_client_info": {
+          "package_name": "com.urbanfarmings.urbanfarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428941122186-1q0f1m42sq65n7ff50t1tp59hvkntr4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Ivz5UAfwPfJy0PNw9UdKnVRxR1ud5oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428941122186-1q0f1m42sq65n7ff50t1tp59hvkntr4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
